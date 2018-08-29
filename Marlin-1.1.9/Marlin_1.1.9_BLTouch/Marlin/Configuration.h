@@ -611,7 +611,7 @@
  * Override with M92
  *                                      X, Y, Z, E0 [, E1[, E2[, E3[, E4]]]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 1600, 468 }  // Tevo Black Widow with stock extruder
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 160, 160, 3200, 936 }  // Tevo Black Widow with stock extruder
 
 /**
  * Default Max Feed Rate (mm/s)
