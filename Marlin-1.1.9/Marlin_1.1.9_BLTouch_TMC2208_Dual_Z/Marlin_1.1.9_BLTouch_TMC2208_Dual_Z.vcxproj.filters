@@ -938,5 +938,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Marlin\Marlin.ino" />
+    <None Include="Marlin\Makefile" />
+    <None Include="Marlin\Marlin.ino.mega.hex" />
+    <None Include="Marlin\Marlin.ino.with_bootloader.mega.hex" />
   </ItemGroup>
 </Project>

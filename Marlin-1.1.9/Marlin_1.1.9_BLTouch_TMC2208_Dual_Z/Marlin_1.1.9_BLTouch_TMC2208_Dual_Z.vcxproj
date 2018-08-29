@@ -417,7 +417,10 @@
     <ClCompile Include="Marlin\watchdog.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Marlin\Makefile" />
     <None Include="Marlin\Marlin.ino" />
+    <None Include="Marlin\Marlin.ino.mega.hex" />
+    <None Include="Marlin\Marlin.ino.with_bootloader.mega.hex" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
